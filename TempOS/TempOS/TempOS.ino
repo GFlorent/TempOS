@@ -19,6 +19,7 @@ int deleteLastSMS(){
 }
 
 void setup() {
+/*  // initialize serial communications
   Serial.begin(9600);
 
   // connection state
@@ -39,6 +40,7 @@ void setup() {
     }
   }
 }
+*/
 void loop() {
   
 }
